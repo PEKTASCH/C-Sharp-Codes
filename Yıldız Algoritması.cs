@@ -3,7 +3,7 @@ int satir, i, j;
 Console.WriteLine("Satır Satısı Giriniz:");
 satir = int.Parse(Console.ReadLine());
 
-for (i = 0; i < satır+1; i++)
+for (i = 0; i < satir+1; i++)
 {
     
     for (j= 0; j< i; j++)
