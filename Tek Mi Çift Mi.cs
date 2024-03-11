@@ -17,3 +17,31 @@ while (true)
         Console.WriteLine("Sayı Tek");
     }
 }
+
+
+// Ayrıca bu algoritmayı da kullanabilirim. / I can also use this algorithm
+
+/*
+while (true)
+{
+
+    int sayi;
+
+    Console.WriteLine("Bir sayi giriniz.");
+
+    sayi = int.Parse(Console.ReadLine());
+
+    if (sayi % 2 == 0)
+    {
+
+        Console.WriteLine("Sayi çifttir.");
+    }
+
+    else
+    {
+
+        Console.WriteLine("Sayi tektir.");
+    }
+
+}
+*/
